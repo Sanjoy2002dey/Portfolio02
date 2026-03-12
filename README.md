@@ -1,16 +1,83 @@
-# React + Vite
+<h1 align="center">Sanjoy Dey – Portfolio</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+Welcome to my personal portfolio website. This space showcases my journey as a developer,
+the projects I’ve built, and my aspirations in the world of technology.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+Think of it as a digital space that reflects <b>creativity, learning, and continuous growth</b>.
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+🌐 <b>Live Website:</b><br>
+<a href="https://portfolio-sanjoydey.vercel.app/">
+https://portfolio-sanjoydey.vercel.app/
+</a>
+</p>
 
-## React Compiler
+<hr>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<h2>👋 About This Portfolio</h2>
 
-## Expanding the ESLint configuration
+<p>
+This portfolio is designed to tell a story — a story of progress, learning,
+and passion for building things that people can interact with.
+</p>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p>Inside the portfolio you will find:</p>
+
+<ul>
+<li><b>Landing Page:</b> A clean and minimal introduction.</li>
+<li><b>Projects Section:</b> A showcase of projects with live demos and code links.</li>
+<li><b>Skills & Expertise:</b> Highlights of technologies and areas I have explored.</li>
+<li><b>Contact Section:</b> Ways to connect for collaboration, feedback, or opportunities.</li>
+</ul>
+
+<p>
+The goal was to make the portfolio <b>simple, elegant, and responsive</b> across all devices
+while reflecting a personal approach to development.
+</p>
+
+<hr>
+
+<h2>🚀 Purpose</h2>
+
+<p>This portfolio serves several purposes:</p>
+
+<ul>
+<li>Track my growth and progress as a developer</li>
+<li>Present my work in a clear and professional way</li>
+<li>Apply modern web development and design practices</li>
+<li>Create a platform for collaboration and connection</li>
+</ul>
+
+<p>
+It acts as a digital home for showcasing projects and sharing my journey in software development.
+</p>
+
+<hr>
+
+<h2>🖥️ How to View Locally</h2>
+
+<p>If you want to run this portfolio locally:</p>
+
+<pre>
+# Clone the repository
+git clone &lt;your-repo-url&gt;
+
+# Navigate into the project folder
+cd &lt;your-repo-folder&gt;
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run start
+</pre>
+
+<hr>
+
+<p align="center">
+© 2026 Sanjoy Dey – Built with passion for learning and development.
+</p>
