@@ -1,83 +1,115 @@
-<h1 align="center">Sanjoy Dey – Portfolio</h1>
+<h1 align="center">🚀 Sanjoy Dey - Developer Portfolio</h1>
 
 <p align="center">
-Welcome to my personal portfolio website. This space showcases my journey as a developer,
-the projects I’ve built, and my aspirations in the world of technology.
-</p>
-
-<p align="center">
-Think of it as a digital space that reflects <b>creativity, learning, and continuous growth</b>.
+Modern and interactive portfolio showcasing my projects, skills, and achievements as a MERN Stack Developer.
 </p>
 
 <p align="center">
 🌐 <b>Live Website:</b><br>
-<a href="https://portfolio-sanjoydey.vercel.app/">
-https://portfolio-sanjoydey.vercel.app/
+<a href="https://my-portfolio-swart-omega-57.vercel.app/">
+https://my-portfolio-swart-omega-57.vercel.app/
 </a>
 </p>
 
 <hr>
 
-<h2>👋 About This Portfolio</h2>
+<h2>👨‍💻 About Me</h2>
 
 <p>
-This portfolio is designed to tell a story — a story of progress, learning,
-and passion for building things that people can interact with.
+Hello! I'm <b>Sanjoy Dey</b>, a passionate <b>MERN Stack Developer</b> focused on building scalable and high-performance web applications.
+I enjoy solving complex problems and transforming ideas into elegant digital solutions.
 </p>
 
-<p>Inside the portfolio you will find:</p>
-
-<ul>
-<li><b>Landing Page:</b> A clean and minimal introduction.</li>
-<li><b>Projects Section:</b> A showcase of projects with live demos and code links.</li>
-<li><b>Skills & Expertise:</b> Highlights of technologies and areas I have explored.</li>
-<li><b>Contact Section:</b> Ways to connect for collaboration, feedback, or opportunities.</li>
-</ul>
-
 <p>
-The goal was to make the portfolio <b>simple, elegant, and responsive</b> across all devices
-while reflecting a personal approach to development.
+This portfolio represents my journey in software development and highlights the technologies I work with,
+the projects I’ve built, and the experiences I’ve gained.
 </p>
 
 <hr>
 
-<h2>🚀 Purpose</h2>
-
-<p>This portfolio serves several purposes:</p>
+<h2>⚡ Features of the Portfolio</h2>
 
 <ul>
-<li>Track my growth and progress as a developer</li>
-<li>Present my work in a clear and professional way</li>
-<li>Apply modern web development and design practices</li>
-<li>Create a platform for collaboration and connection</li>
+<li>Modern futuristic UI design</li>
+<li>Interactive particle background</li>
+<li>Responsive design for desktop and mobile</li>
+<li>Animated project cards</li>
+<li>Skills and achievements section</li>
+<li>Direct links to GitHub and LinkedIn</li>
 </ul>
-
-<p>
-It acts as a digital home for showcasing projects and sharing my journey in software development.
-</p>
 
 <hr>
 
-<h2>🖥️ How to View Locally</h2>
+<h2>🛠 Tech Stack</h2>
 
-<p>If you want to run this portfolio locally:</p>
+<ul>
+<li><b>Frontend:</b> React.js, HTML5, CSS3</li>
+<li><b>Backend:</b> Node.js, Express.js</li>
+<li><b>Database:</b> MongoDB, MySQL</li>
+<li><b>Languages:</b> JavaScript, Java, C</li>
+<li><b>Tools:</b> Git, GitHub, VS Code</li>
+<li><b>Deployment:</b> Vercel</li>
+</ul>
 
-<pre>
-# Clone the repository
-git clone &lt;your-repo-url&gt;
+<hr>
 
-# Navigate into the project folder
-cd &lt;your-repo-folder&gt;
+<h2>📂 Featured Projects</h2>
 
-# Install dependencies
-npm install
+<ul>
+<li>
+<b>Sanjoy_Tube</b><br>
+Full-stack MERN video streaming platform with authentication and cloud integration.
+</li>
 
-# Start the development server
-npm run start
-</pre>
+<br>
+
+<li>
+<b>Gemini Clone</b><br>
+AI-powered conversational interface inspired by Google Gemini.
+</li>
+
+<br>
+
+<li>
+<b>Real-Time Chat Application</b><br>
+Multi-client chat system built using Java socket programming.
+</li>
+
+<br>
+
+<li>
+<b>Dynamic Quiz Platform</b><br>
+Interactive quiz application with real-time scoring and responsive UI.
+</li>
+
+</ul>
+
+<hr>
+
+<h2>🏆 Achievements</h2>
+
+<ul>
+<li>Participant – Hack4Bengal Hackathon</li>
+<li>Participant – Smart India Hackathon (Internal Round)</li>
+<li>Software Development Job Simulation – Datacom (Forage)</li>
+<li>⭐ HackerRank 5 Star</li>
+<li>💻 Solved 100+ DSA Problems</li>
+</ul>
+
+<hr>
+
+<h2>📬 Contact</h2>
+
+<p>If you'd like to collaborate, connect, or discuss opportunities:</p>
+
+<ul>
+<li>Email: Sanjoy.sanjoydey@gmail.com</li>
+<li>LinkedIn: https://www.linkedin.com/in/sanjoy-dey-713b67228/</li>
+<li>GitHub: https://github.com/Sanjoy2002dey</li>
+</ul>
 
 <hr>
 
 <p align="center">
-© 2026 Sanjoy Dey – Built with passion for learning and development.
+© 2026 Sanjoy Dey — Designed & Developed with dedication.
 </p>
